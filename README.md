@@ -24,7 +24,6 @@
                 <li>Product item count in cart</li>
                 <li>Easy stock update</li>
             </ul>
-            <img src="/mnt/data/687474703a2f2f6f6e6c696e65736f667473656c6c2e636f6d2f656e7661746f2f636f646563616e796f6e2f72657374617572616e745f706f732f64656d6f61706b2e706e67.png" alt="Stock Management System" width="600">
         </section>
         <section>
             <h2>Download Demo APK</h2>
