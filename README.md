@@ -35,7 +35,12 @@
     <footer>
         <p>&copy; 2024 NexusXpert | <a href="https://github.com/NexusXpert" target="_blank">GitHub Repository</a></p>
     </footer>
-</body>
+</body>![Screenshot(11)](https://github.com/user-attachments/assets/10b7fd69-b232-4835-8df6-d8ea4![Screenshot(12)](https://github.com/user-attachments/assets/9a119a41-9951-4af3-b60c-69b036e9ea7f)
+c632870)
+
 </html>
+![Screenshot(1)](https://github.com/user-attachments/assets/7d59e784-abae-4a22-af2e-b5143ade5f90)
+![Screenshot(10)](https://github.com/user-attachments/assets/b9dfc280-7ca6-48b3-9f33-07ed05924dd![Screenshot(16)](https://github.com/user-attachments/assets/7f34ab2a-62c2-467b-a2c8-5bee862338ab)
+9)
 
 
